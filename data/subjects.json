@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Energy & Sustainability Policies, Codes and Standards",
+    "weight_percent": 7,
+    "key": "policy"
+  },
+  {
+    "name": "Energy Rates, Tariffs and Supply Options",
+    "weight_percent": 6,
+    "key": "rates"
+  },
+  {
+    "name": "Energy Audits and Instrumentation",
+    "weight_percent": 9,
+    "key": "audit"
+  },
+  {
+    "name": "Energy Accounting and Economics",
+    "weight_percent": 8,
+    "key": "economics"
+  },
+  {
+    "name": "Electrical Power Systems and Motors",
+    "weight_percent": 9,
+    "key": "electrical"
+  },
+  {
+    "name": "Lighting Systems",
+    "weight_percent": 6,
+    "key": "lighting"
+  },
+  {
+    "name": "HVAC Systems and Building Envelope",
+    "weight_percent": 13,
+    "key": "hvac"
+  },
+  {
+    "name": "Building Automation, Controls and AI",
+    "weight_percent": 8,
+    "key": "controls"
+  },
+  {
+    "name": "Energy Storage Systems",
+    "weight_percent": 4,
+    "key": "storage"
+  },
+  {
+    "name": "Boiler and Steam Systems",
+    "weight_percent": 5,
+    "key": "boiler"
+  },
+  {
+    "name": "Distributed Generation and Renewable Energy",
+    "weight_percent": 5,
+    "key": "renewables"
+  },
+  {
+    "name": "Industrial Systems",
+    "weight_percent": 7,
+    "key": "industrial"
+  },
+  {
+    "name": "Operations, Maintenance and Commissioning",
+    "weight_percent": 9,
+    "key": "om"
+  },
+  {
+    "name": "Energy Savings Performance Contracting and M&V",
+    "weight_percent": 4,
+    "key": "mv"
+  }
+]
